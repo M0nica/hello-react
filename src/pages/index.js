@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
 import Bio from '../components/Bio'
+import Divider from '../components/Divider'
 import Footer from '../components/Footer'
 import { rhythm } from '../utils/typography'
 
@@ -16,11 +17,11 @@ class BlogIndex extends React.Component {
       <div>
         <Helmet title={siteTitle} />
         <Bio />
+        <Divider />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
             <div key={node.fields.slug} style={{
-              
 
                 borderRadius: '10px'
                 }}>

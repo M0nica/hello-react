@@ -1,6 +1,6 @@
 ---
 title: Humble Bundle! Books Galore!
-date: "2015-05-01T22:12:03.284Z"
+date: "2018-06-07T22:12:03.284Z"
 ---
 
 Humble Bundle is a website that allows you to pay what you want for digital copies of books and games. A portion of every order is donated to charity.
