@@ -4,6 +4,7 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 
 import Bio from '../components/Bio'
+import Footer from '../components/Footer'
 import { rhythm, scale } from '../utils/typography'
 
 class BlogPostTemplate extends React.Component {
@@ -59,6 +60,7 @@ class BlogPostTemplate extends React.Component {
             </li>
           )}
         </ul>
+        <Footer />
       </div>
     )
   }
