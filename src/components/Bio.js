@@ -28,9 +28,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Monica Powell</strong>, a web engineer who is currently learning React.{' '}
+          Written by <strong>Monica Powell</strong>,  web developer who is passionate about creating more enjoyable digital products and is currently learning React.{' '}
           <a href="https://twitter.com/waterproofheart">
-            You should follow her on Twitter
+            <i className="fa fa-twitter"></i>
           </a>
         </p>
       </div>

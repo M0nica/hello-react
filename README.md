@@ -4,3 +4,9 @@ This is a blog created from: [https://github.com/gatsbyjs/gatsby-starter-blog](h
 
 ## Running in development
 `gatsby develop`
+
+## Publish to GitHub pages
+`npm run deploy`
+
+## View Site
+https://m0nica.github.io/hello-react/
