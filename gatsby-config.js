@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'Hello, React',
     author: 'Monica Powell',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    description: 'A micro-blog created to learn React and ES6.',
+    siteUrl: 'https://m0nica.github.io/hello-react/',
   },
   pathPrefix: '/hello-react',
   plugins: [
