@@ -30,19 +30,20 @@ class Bio extends React.Component {
         <p>
           Written by <strong>Monica Powell</strong>,  web developer who is passionate about creating more enjoyable digital products and is currently learning React.{' '}
           <a href="https://twitter.com/waterproofheart" style={{
-            color: '#988ca0',
+            color: '#1da1f2',
+            textDecoration: 'none',
           }}>
             <i className="fa fa-twitter"></i>
           </a>
           &nbsp;
           <a href="https://github.com/M0nica" style={{
-            color: '#988ca0',
+            color: '#615868',
           }}>
             <i className="fa fa-github"></i>
           </a>
           &nbsp;
           <a href="https://www.linkedin.com/in/monicampowell" style={{
-            color: '#988ca0',
+            color: '#0077b5',
           }}>
             <i className="fa fa-linkedin"></i>
           </a>

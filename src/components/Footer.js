@@ -16,8 +16,10 @@ class Footer extends React.Component {
           color: '#625968',
       }}>
 
-      Made with <i className="fa fa-heart" aria-hidden="true"></i> &amp; <i className="fa fa-code" aria-hidden="true"></i>
- &nbsp; in Brooklyn, New York
+      Made with <i className="fa fa-heart" aria-hidden="true" style={{
+        color: "#d8a9a9",
+      }}></i> &amp; <i className="fa fa-code" aria-hidden="true"></i>
+ &nbsp; in Brooklyn, New York.
       </p>
 
     )

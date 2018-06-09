@@ -12,7 +12,7 @@ import React from 'react'
       return (
 
       <hr style={{ border: 'none',
-          height: '10px',
+          height: '4px',
 
           backgroundColor: '#988ca0',
           backgroundPosition: "left bottom",
