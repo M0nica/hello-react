@@ -17,7 +17,7 @@ class Footer extends React.Component {
       }}>
 
       Made with <i className="fa fa-heart" aria-hidden="true"></i> &amp; <i className="fa fa-code" aria-hidden="true"></i>
-in Brooklyn, New York
+ &nbsp; in Brooklyn, New York
       </p>
 
     )

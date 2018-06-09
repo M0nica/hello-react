@@ -21,9 +21,11 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
+            <div>
             <div key={node.fields.slug} style={{
-
-                borderRadius: '10px'
+                backgroundColor: 'white',
+                padding: '1em',
+                boxShadow: 'inset 0 -2px 0px 0px #c9c1d2',
                 }}>
               <h3
                 style={{
@@ -36,7 +38,11 @@ class BlogIndex extends React.Component {
               </h3>
               <small>{node.frontmatter.date}</small>
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+
             </div>
+<br />
+</div>
+
           )
         })}
 
