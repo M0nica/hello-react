@@ -1,6 +1,7 @@
 ---
 title: My Second Post!
 date: "2018-06-06T23:46:37.121Z"
+draft: true
 ---
 
 Wow! I love blogging so much already.
