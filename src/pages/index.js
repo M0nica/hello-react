@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
+
 import Bio from '../components/Bio'
 import Divider from '../components/Divider'
 import Footer from '../components/Footer'
@@ -64,7 +65,8 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }
+    filter: {frontmatter: {draft: {ne: true } } }) {
       edges {
         node {
           excerpt
