@@ -1,9 +1,5 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-db792cde148deea1bfd9.js",
-      "path---my-second-post-db792cde148deea1bfd9.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-7321e335b97d6c98df47.js",
       "component---src-pages-index-js-7321e335b97d6c98df47.js.map"
@@ -25,12 +21,12 @@
       "component---src-layouts-index-js-cc5cb108a5e1e77467e0.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-6fdb7108cd29ce11d16f.js",
-      "path---hi-folks-6fdb7108cd29ce11d16f.js.map"
+      "path---hi-folks-25b27065cd785bf8739e.js",
+      "path---hi-folks-25b27065cd785bf8739e.js.map"
     ],
     "path---index": [
-      "path---index-b70fafa49e26fe3af722.js",
-      "path---index-b70fafa49e26fe3af722.js.map"
+      "path---index-6d1802bb9ab7366f52e7.js",
+      "path---index-6d1802bb9ab7366f52e7.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -43,8 +39,8 @@
       "build-js-styles.css.map"
     ],
     "path---humble-bundle": [
-      "path---humble-bundle-e7dbad80460638890f39.js",
-      "path---humble-bundle-e7dbad80460638890f39.js.map"
+      "path---humble-bundle-66eeb140c1ea79ae9474.js",
+      "path---humble-bundle-66eeb140c1ea79ae9474.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -55,9 +51,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-dadbfad11210bb48f608.js",
+      "app-5eb5c10f6ed8683b724e.js",
       "build-js-styles.css",
-      "app-dadbfad11210bb48f608.js.map",
+      "app-5eb5c10f6ed8683b724e.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
